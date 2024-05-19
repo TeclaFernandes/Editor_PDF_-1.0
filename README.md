@@ -47,7 +47,7 @@ Pillow (PIL)
 functools
 ```
 
-## :pushpin: Corpo do código: 
+## :pushpin: importando as bibliotecas do código: 
 >Importando as bibliotecas.
 <br>
 
