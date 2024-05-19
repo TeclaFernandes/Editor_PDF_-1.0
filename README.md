@@ -48,8 +48,6 @@ functools
 ```
 
 ## :pushpin: importando as bibliotecas do código: 
->Importando as bibliotecas.
-<br>
 
 ```Markdown
 import os
